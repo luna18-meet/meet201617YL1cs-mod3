@@ -11,3 +11,4 @@ my_user.
 
 #Use the right password here
 my_user.
+my_user=UserAccount('cat', 'dog', 'fish')
